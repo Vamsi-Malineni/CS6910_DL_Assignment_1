@@ -1,4 +1,4 @@
-# Assignment 1 : Developing Backpropagation from scratch
+# Developing Backpropagation from scratch
 -----------------------------------------------------------
 In this assignment, we developed a feed forward neural network from scratch. We have used gradient descent method and its variants as optimization algorithm with backpropogation to classify images from Fashion-MNIST dataset. We used "wandb.ai" to perform experiments for hyperparameter tuning. 
 # Libraries and their application :
