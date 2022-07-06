@@ -1,6 +1,7 @@
 # Developing Backpropagation Algorithm from scratch
 -----------------------------------------------------------
 In this course project, we developed a feed forward neural network from scratch. We have used gradient descent method and its variants as optimization algorithm with backpropogation to classify images from Fashion-MNIST dataset. We used "wandb.ai" to perform experiments for hyperparameter tuning. 
+<br> The link to the detailed report can be found here: [Report](https://wandb.ai/safi-vamsi-cs6910/Assignment%201/reports/Assignment-1--VmlldzoxNjAwMDg2)
 # Libraries and their application :
 1. Numpy: Mathematical operations are performed by this library
 2. Keras: This library is used to obtain the dataset.
